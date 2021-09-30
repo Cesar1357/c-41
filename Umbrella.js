@@ -7,7 +7,7 @@ class Umbrella {
         this.umbrella = Bodies.circle(x,y,50,options);
         this.radius = 50;
         World.add(world, this.umbrella)
-        this.image2 = loadImage("bat/Bestman-01.png");
+        this.image2 = loadImage("Bestman-01.png");
         //load Image for BestMan
         
     }
